@@ -13,7 +13,7 @@ public class CustomerModuleTest {
 	@Test
 	public void modifyCustomerTest()
 	{
-		System.out.println("customer modified successfully");
+		System.out.println("customer modified");
 	}
 	
 
