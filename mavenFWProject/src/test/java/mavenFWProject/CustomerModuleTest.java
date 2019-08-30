@@ -7,7 +7,7 @@ public class CustomerModuleTest {
 	@Test
 	public void createCustomerTest()
 	{
-		System.out.println("customer created successfully");
+		System.out.println("customer created");
 	}
 	
 	@Test
